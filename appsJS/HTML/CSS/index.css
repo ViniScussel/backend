@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(46, 46, 46);
+    color: white;
+}
+h1{
+    font-size: 32px;
+}
+a{
+    text-decoration: none;
+}
+.text{
+    font-size: 32px;
+}
+main{
+    font-family: 'Courier New', Courier, monospace;
+}
